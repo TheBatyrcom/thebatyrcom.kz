@@ -1,4 +1,4 @@
-# 🌑 TheBatyrcom — Alone Project
+# 🌑 TheBatyrcom Project
 
 > **"Code with Courage — IT · AI · Creator"**
 
